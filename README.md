@@ -26,4 +26,4 @@ Build and evaluate the machine learning models.
 The necessary data files are included in the project directory:
 - copper_data.csv: The dataset containing sales and pricing data.
 ## License
-This project is licensed under the GNU License. See the LICENSE file for details
+This project is licensed under the GPL 3.0 License. See the LICENSE file for details
